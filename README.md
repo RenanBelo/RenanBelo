@@ -8,10 +8,8 @@
 <p>
   Olá 👋, Eu sou o Renan e gosto de estudar/aprender variadas linguagens de programação .
 
-  - 🌱 No momento estou focado em aprender C# e Python <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 No momento estou focado em aprender C# e Python
 
-
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 
 <!-- Links -->
 
