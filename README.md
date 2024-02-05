@@ -6,10 +6,9 @@
 
 <!-- Presentation -->
 <p>
-  Olá 👋, Eu sou o Renan e gostou de estudar/aprender variadas linguagens de programação .
+  Olá 👋, Eu sou o Renan e gosto de estudar/aprender variadas linguagens de programação .
 
   - 🌱 No momento estou focado em aprender C# e Python <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
-
 
 
 https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
@@ -23,15 +22,15 @@ https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoC
 ![RenanBelo GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanBelo&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
-## Portfolio:
-- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and query system](https://github.com/VariableBee/Cartorio)
+## Principais projetos:
+- [Python - NutriDash-Front](https://github.com/RenanBelo/NutriDash-Front)
+- [C# - WebApi](https://github.com/RenanBelo/WebApi_c)
+- [Python - Curitiba_eventos-Back_End](https://github.com/RenanBelo/curitiba_eventos-Back_End)
 
 <!-- GIF -->
+<br>
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODN4ajkwNW0wNGdwbGVjYWcwb3RwbG1yNndpYzVkeWVnZXJxdDhzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H62NM1ab7wzMXURdoi/giphy.gif" alt="Imagem">
 </p>
 
 ## 🔥 Skills
