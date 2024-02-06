@@ -52,4 +52,3 @@
     <img align="center" alt="Postman" height="30" width="40" src="https://skillicons.dev/icons?i=postman">
   </div>
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21peotaknqt6dqgaplliodeiy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
