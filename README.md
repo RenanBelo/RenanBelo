@@ -6,9 +6,9 @@
 
 <!-- Presentation -->
 <p>
-  Olá 👋, Eu sou o Renan e gosto de estudar/aprender variadas linguagens de programação .
+  Olá 👋, eu sou o Renan e gosto de estudar/aprender variadas linguagens de programação
 
-  - 🌱 No momento estou focado em aprender C# e Python
+  - 🌱 No momento estou focado em aprender C# e Python.
 
 
 <!-- Links -->
