@@ -1,15 +1,14 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Olá 👋</h1></summary>
 </div>
-
-<!-- Presentation -->
+    
+---
 <p>
-  Olá 👋, eu sou o Renan e gosto de estudar/aprender variadas linguagens de programação
+  Eu sou o Renan e gosto de estudar/aprender variadas linguagens de programação
 
   - 🌱 No momento estou focado em aprender C# e Python.
-
 
 <!-- Links -->
 
