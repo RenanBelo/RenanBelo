@@ -20,7 +20,7 @@
 ![RenanBelo GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanBelo&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
-## Principais projetos:
+## Principais projetos
 - [Python - NutriDash-Front](https://github.com/RenanBelo/NutriDash-Front)
 - [C# - WebApi](https://github.com/RenanBelo/WebApi_c)
 - [Python - Curitiba_eventos-Back_End](https://github.com/RenanBelo/curitiba_eventos-Back_End)
