@@ -28,7 +28,7 @@
 <br>
 <p align="left">
   <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODN4ajkwNW0wNGdwbGVjYWcwb3RwbG1yNndpYzVkeWVnZXJxdDhzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H62NM1ab7wzMXURdoi/giphy.gif" 
- height= 400 weight= 400 alt="Imagem">
+ height= 400 width= 400 alt="Imagem">
 </p>
 
 ## 🔥 Habilidades
