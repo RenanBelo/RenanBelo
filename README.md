@@ -6,7 +6,7 @@
     
 ---
 <p>
-  Eu sou o Renan e gosto de estudar/aprender variadas linguagens de programação
+  Eu sou o Renan e gosto de aprender/estudar variadas linguagens de programação
 
   - 🌱 No momento estou focado em aprender C# e Python.
 
