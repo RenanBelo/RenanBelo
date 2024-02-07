@@ -13,7 +13,7 @@ Eu sou o Renan e gosto de aprender/estudar variadas linguagens de programação
 - 🌱 No momento estou focado em aprender C# e Python.
 
 <!-- Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-beloc/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RenanBelo)
 
 <!-- GithubStats -->
