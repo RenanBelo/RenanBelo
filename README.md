@@ -48,7 +48,7 @@ Eu sou o Renan e gosto de aprender/estudar variadas linguagens de programação
 
 <br>
 <p align="left">
-<img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODN4ajkwNW0wNGdwbGVjYWcwb3RwbG1yNndpYzVkeWVnZXJxdDhzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H62NM1ab7wzMXURdoi/giphy.gif"
+<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODN4ajkwNW0wNGdwbGVjYWcwb3RwbG1yNndpYzVkeWVnZXJxdDhzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H62NM1ab7wzMXURdoi/giphy.gif"
 height= 340 width= 340 alt="Imagem">
 </p>
 
