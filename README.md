@@ -13,9 +13,8 @@ Eu sou o Renan e gosto de aprender/estudar variadas linguagens de programação
 
 <!-- Links -->
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RenanBelo)
 
 <!-- GithubStats -->
 
