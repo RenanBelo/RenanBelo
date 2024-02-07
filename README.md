@@ -17,7 +17,28 @@ Eu sou o Renan e gosto de aprender/estudar variadas linguagens de programação
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RenanBelo)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanBelo&show_icons=true&theme=gotham)
+
+<table>
+  <tr>
+    <td>
+<img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=RenanBelo&show_icons=true&theme=gotham"
+        alt="Github Stats"
+      />  
+    </td>
+    <br>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBelo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+<br>
+
 
 <!-- Portfolio -->
 ## :computer:  Principais projetos
