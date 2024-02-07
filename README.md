@@ -29,7 +29,7 @@ height="230" style="max-width: 100%;" alt="Imagem">
 - [TypeScript - NutriDash-Front](https://github.com/RenanBelo/NutriDash-Front)
 - [C# - WebApi](https://github.com/RenanBelo/WebApi_c-)
 - [Python - Curitiba_eventos-Back_End](https://github.com/RenanBelo/curitiba_eventos-Back_End)
-<br><br><br><br>
+<br><br><br><br><br>
 
 ## 🔥 Habilidades
 
